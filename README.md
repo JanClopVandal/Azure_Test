@@ -1,2 +1,1 @@
-# Azure_Test
- 
+Test assignment for a technical artist's job
